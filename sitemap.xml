@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://demo.stoppoint.net/haivl/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.6.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.9" -->
+<!-- generated-on="June 5, 2014 9:05 am" -->
+<!-- Debug: Total comment count: 0 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://demo.stoppoint.net/haivl/</loc>
+		<lastmod>2013-09-17T09:38:03+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 805: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/haivl/?p=805</loc>
+		<lastmod>2014-03-10T04:43:12+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 802: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/haivl/?p=802</loc>
+		<lastmod>2014-03-10T04:34:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 672: Comments: 0 of 0 = 0 points -->
+	<url>
+		<loc>http://demo.stoppoint.net/haivl/?p=672</loc>
+		<lastmod>2014-03-10T04:28:34+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/haivl/?page_id=131</loc>
+		<lastmod>2014-01-17T16:51:45+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/haivl/?page_id=126</loc>
+		<lastmod>2014-01-17T07:55:36+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/haivl/?page_id=117</loc>
+		<lastmod>2014-01-17T02:25:10+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://demo.stoppoint.net/haivl/?page_id=51</loc>
+		<lastmod>2013-09-25T13:11:28+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
